@@ -17,7 +17,6 @@ localhost:9292
 ```
 
 
-
 ## Challenge
 
 * The Task was to design and produce an online todo list management system written in Ruby on Rails that utilised the MVC architectural pattern.
@@ -35,3 +34,12 @@ localhost:9292
 * Edit button - This lets us rename the list and change the description.
 * Delete button - This lets us delete the list entirely.
 * Back - Takes us back to the previous screen.
+
+
+## Image of App
+
+* Homepage:
+<img src="public/todohome.png" />
+
+* Todo list:
+<img src="public/todolist.png" />
