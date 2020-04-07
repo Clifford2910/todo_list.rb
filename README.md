@@ -25,8 +25,11 @@ localhost:9292
 ## Features
 
 **Homepage** - This is where all the todo lists are created, via the 'New Todo List' button and presented for use.
+
 **New Todo List** - This button lets you create a new todo list with a title and description.
+
 **Clicking a List** - This will take you to that specific list page where you can interact with the list.
+
 **Interacting with a List** - When on a specific list page you can.
 * Create todo item - This adds a single item to the list.
 * Mark Complete - This augments the circle on the left of the item to a tick which shows completion and crosses the item out.
